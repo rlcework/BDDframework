@@ -8,7 +8,11 @@ Cucumber: Write tests in plain language using Gherkin syntax, making scenarios e
 TestNG: Execute and manage your tests with TestNG, offering flexible test configurations and parallel test execution.
 Jenkins Integration (Coming Soon): Seamless integration with Jenkins for continuous integration and automated builds. Schedule and monitor your test executions effortlessly.
 Extent Report (Coming Soon): Beautiful and interactive HTML reports to visualize test results, trends, and statistics.
-
+Getting Started:
+Clone the repository: git clone https://github.com/yourusername/your-repository.git
+Install necessary dependencies using Maven: mvn clean install
+Run your tests using TestNG: mvn test
 Upcoming Features:
 Jenkins Integration: Stay tuned for upcoming releases, where we'll integrate Jenkins for automated builds and continuous integration.
 Extent Report Integration: Enhance your test reporting with Extent Reports for detailed and interactive HTML reports.
+How to Contribute:
