@@ -1,0 +1,4 @@
+base\testbase\TestBase.class
+base\pageobject\HomePage.class
+base\utilities\BrowserManager.class
+base\pageobject\LoginPage.class
